@@ -61,7 +61,7 @@ I’m a **Full Stack Developer**
 ---
 
 ## Fun Facts
-- I teach young students programming every Saturday.  
+- I taught young students programming every Saturday for 6 months.  
 - I designed, developed, and launched an augmented reality geolocation game.  
 - Winner of the Hastings Game Jam 2016.
 
