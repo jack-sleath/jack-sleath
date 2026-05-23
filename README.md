@@ -6,7 +6,7 @@ Senior full stack developer at COOK Trading. Half my favourite work is duct-tape
 
 My favourite recent duct-tape job took a 14-step token-fetching ritual and turned it into a single button. Not polished, not elegant, but the whole point was that nobody ever had to do those 14 steps again.
 
-The proper-engineering side gets less exciting to write about but matters more in the long run: services that have to be designed to last, integrate cleanly, and survive the next five things that get bolted on.
+The proper-engineering side gets less exciting to write about but matters more in the long run: services that have to be designed to last, integrate cleanly, and survive the next five things that get bolted on. Enjoying getting to spend more time on the architecture side of that lately.
 
 ## What I've been into lately
 
