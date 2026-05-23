@@ -1,0 +1,11 @@
+# Personal notes — not for the public profile repo
+PLANS.md
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
