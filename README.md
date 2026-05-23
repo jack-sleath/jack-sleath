@@ -1,12 +1,12 @@
 # Hi, I'm Jack Sleath
 
-Senior full stack developer at COOK Trading. Half my favourite work is duct-tape fixes (little tools that quietly delete an annoying problem); the other half is proper engineering built to last. The interesting bit is knowing which one a given problem is actually asking for.
+Senior full stack developer at COOK Trading. Half my favourite work is duct-tape fixes (little tools that quietly delete an annoying problem); the other half is proper engineering and architecture built to last. The interesting bit is knowing which one a given problem is actually asking for.
 
 ## How I work
 
 My favourite recent duct-tape job took a 14-step token-fetching ritual and turned it into a single button. Not polished, not elegant, but the whole point was that nobody ever had to do those 14 steps again.
 
-The proper-engineering side gets less exciting to write about but matters more in the long run: services that have to be designed to last, integrate cleanly, and survive the next five things that get bolted on. Enjoying getting to spend more time on the architecture side of that lately.
+The proper-engineering side moves at a different pace: services that have to be designed to last, integrate cleanly, and survive the next five things that get bolted on. Enjoying getting to spend more time on the architecture side of that lately.
 
 ## What I've been into lately
 
