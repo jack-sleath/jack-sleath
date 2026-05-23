@@ -1,12 +1,12 @@
 # Hi, I'm Jack Sleath
 
-Senior full stack developer at COOK Trading. I like duct tape when it earns its keep, and proper engineering when it matters. I spend a lot of time figuring out which is which.
+Senior full stack developer at COOK Trading. Half my favourite work is duct-tape fixes (little tools that quietly delete an annoying problem); the other half is proper engineering built to last. The interesting bit is knowing which one a given problem is actually asking for.
 
 ## How I work
 
-Some of my favourite bits of work are what I think of as duct tape development: little tools and sites that exist purely to make someone's job less annoying. One of mine took a 14-step token-fetching ritual and turned it into a single button. Not polished, not elegant, but the whole point was that nobody ever had to do those 14 steps again.
+My favourite recent duct-tape job took a 14-step token-fetching ritual and turned it into a single button. Not polished, not elegant, but the whole point was that nobody ever had to do those 14 steps again.
 
-The flipside is the proper stuff: services that need to be designed to last, integrate cleanly, and survive the next five things that get bolted on. Both matter. The trick is knowing which one the problem in front of you is actually asking for.
+The proper-engineering side gets less exciting to write about but matters more in the long run: services that have to be designed to last, integrate cleanly, and survive the next five things that get bolted on.
 
 ## What I've been into lately
 
